@@ -40,7 +40,6 @@ public class Variaveis {
 		System.out.print(", tenho " + idade);
 		System.out.print(", peso " + peso + " Kg");
 		System.out.print(", sou do sexo: " + sexo);
-		
 	}
 
 }
