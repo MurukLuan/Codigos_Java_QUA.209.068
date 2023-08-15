@@ -1,0 +1,19 @@
+
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "Numero " 3 times.(ûùÁøÿÿÿÿ8±“”²1HñRCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ûùÁøÿÿÿÿ8±“”²1HõRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(³ú»Â8±“”²1HöRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°«ü¡ıÿÿÿÿ8Ììˆ²1HìRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ö8Ììˆ²1HêRMAJORZ
+CODE_SMELL
+
+java:S1192"SDefine a constant instead of duplicating this literal " Ã© o maior numero" 3 times.(ûùÁøÿÿÿÿ8±“”²1HíRCRITICALZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿÄg8Ììˆ²1HëRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÈ’ãıÿÿÿÿ8±“”²1H÷RMAJORZ
+CODE_SMELL

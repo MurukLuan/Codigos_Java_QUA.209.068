@@ -1,0 +1,21 @@
+package principal;
+
+public class Vetor {
+
+	public static void main(String[] args) {
+		// Vetor é uma sequencia não ordenada de dados do mesmo tipo
+		//a cnotagem do Vetor é por indice e inicia do indice 0
+		//Vetor não pode conter dados de tipos diferentes
+		//Vetor tbm é conhecido como Array
+		//Vetor é unidimensional, uma direção
+		//os dados do array são armazenados em um epaço de memoria
+		
+		/* (xpto123) = 10 , 20, 30, 40
+		 */
+		
+		
+		
+
+	}
+
+}

@@ -14,13 +14,14 @@ public class EntradaDeDados {
 		double altura;
 		char sexo;
 		
+				
+		System.out.println("\nDigite a sua idade: ");
+		idade = leia.nextInt();
 		
 		System.out.print("Por favor, digite seu nome: ");
 		//leitura de dados tipo String (conjunto de caracteres)
 		nome = leia.nextLine();
-		
-		System.out.println("\nDigite a sua idade: ");
-		idade = leia.nextInt();
+		leia.nextLine();
 		
 		System.out.println("Digite sua altura: ");
 		altura = leia.nextDouble();

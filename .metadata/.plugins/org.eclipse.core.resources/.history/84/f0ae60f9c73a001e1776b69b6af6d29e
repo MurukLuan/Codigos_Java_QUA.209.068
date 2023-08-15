@@ -1,0 +1,28 @@
+package principal;
+
+public class Matriz {
+
+	public static void main(String[] args) {
+		//uma matriz é um vetor multidimnsional
+		//geralmente trabalhamos com 2 dimensões
+		// linha e coluna, parece uma tabela
+		
+		// os 2 ultimos abre e fecha colchetes são
+		//para indicar coluna e linha
+		//no exemplo abaixo temos uma matriz 3 x 3
+		int[][] numeros = new int[3][3];
+		
+		int contador = 10;
+		
+		for(int i = 0; i < numeros.length; i++) {
+			for(int j = 0; j < numeros.length; j++) {
+				numeros[i][j] = contador;
+				System.out.println(numeros[i][j] + "\t");
+				contador++;
+			}
+			System.out.println();
+		}
+
+	}
+
+}

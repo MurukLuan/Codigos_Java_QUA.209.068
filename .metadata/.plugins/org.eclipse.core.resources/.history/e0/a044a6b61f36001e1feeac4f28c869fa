@@ -1,0 +1,16 @@
+package principal;
+
+public class EstrututurasRepeticao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*
+		 * Uma estrutura de repetição 
+		 * repete determinado bloco de codigo enquanto 
+		 * uma condição for satisfeita
+		 */
+
+	}
+
+}

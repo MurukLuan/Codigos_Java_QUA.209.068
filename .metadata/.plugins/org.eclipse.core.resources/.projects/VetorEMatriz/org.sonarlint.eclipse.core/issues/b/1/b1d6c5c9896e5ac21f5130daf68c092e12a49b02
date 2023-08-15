@@ -1,0 +1,57 @@
+
+f
+java:S1121#".Extract the assignment out of this expression.(üæ”Èúÿÿÿÿ8Ï§Ì«Ÿ1HÿRMAJORZ
+CODE_SMELL
+f
+java:S1121".Extract the assignment out of this expression.(Ë‹êşÿÿÿÿ8Ï§Ì«Ÿ1HüRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­ŠŞÁıÿÿÿÿ8ÿ¹ «Ÿ1HøRMAJORZ
+CODE_SMELL
+a
+java:S1121%".Extract the assignment out of this expression.(ƒáæÉ8Ï§Ì«Ÿ1HRMAJORZ
+CODE_SMELL
+`
+java:S1121!".Extract the assignment out of this expression.(Ê´¥8Ï§Ì«Ÿ1HşRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¸é’ïşÿÿÿÿ8¨µ½ªŸ1HíRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë‹êşÿÿÿÿ8ÿ¹ «Ÿ1HïRMAJORZ
+CODE_SMELL
+f
+java:S1121".Extract the assignment out of this expression.(­ŠŞÁıÿÿÿÿ8Ï§Ì«Ÿ1HûRMAJORZ
+CODE_SMELL
+j	java:S106!"9Replace this use of System.out or System.err by a logger.(Ê´¥8Ï§Ì«Ÿ1HƒRMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(üæ”Èúÿÿÿÿ8Ï§Ì«Ÿ1H…RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(š½Åù8Ï§Ì«Ÿ1H†RMAJORZ
+CODE_SMELL
+`
+java:S1121".Extract the assignment out of this expression.(ÌÜì_8Ï§Ì«Ÿ1HùRMAJORZ
+CODE_SMELL
+a
+java:S1121$".Extract the assignment out of this expression.(š½Åù8Ï§Ì«Ÿ1H€RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÜì_8ÿ¹ «Ÿ1HìRMAJORZ
+CODE_SMELL
+a
+java:S1121 ".Extract the assignment out of this expression.(õ™ÑØ8Ï§Ì«Ÿ1HıRMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(õ™ÑØ8Ï§Ì«Ÿ1H‚RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ï§Ì«Ÿ1HˆRMAJORZ
+CODE_SMELL
+f
+java:S1121".Extract the assignment out of this expression.(¸é’ïşÿÿÿÿ8Ï§Ì«Ÿ1HúRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ÿÏ”8™“¤ªŸ1HƒRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒáæÉ8Ï§Ì«Ÿ1H‡RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8×¤Û¨Ÿ1HîRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ï§Ì«Ÿ1H„RMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8º»Í«Ÿ1H’RMINORZ
+CODE_SMELL

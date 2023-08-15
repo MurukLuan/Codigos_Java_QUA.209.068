@@ -1,0 +1,21 @@
+package principal;
+
+import java.util.Scanner;
+
+public class Vetor {
+
+	public static void main(String[] args) {
+		/*
+		 * um vetor de 20 posições
+		 * mostrar os numeros inseridos
+		 * somar os numeros inseridos
+		 */
+		Scanner leia = new Scanner(System.in);
+		int[] numeros = new int[5];
+		int soma = 0;
+		
+		for()
+
+	}
+
+}

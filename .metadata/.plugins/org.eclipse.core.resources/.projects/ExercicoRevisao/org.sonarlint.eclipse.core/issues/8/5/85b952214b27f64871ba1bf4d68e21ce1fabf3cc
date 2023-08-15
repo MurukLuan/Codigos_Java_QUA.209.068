@@ -1,0 +1,16 @@
+
+›
+java:S1192B"`Define a constant instead of duplicating this literal "Valor a ser pago com desconto: " 4 times.(ä„Á€ùÿÿÿÿ8óÌË±1HÉRCRITICALZ
+CODE_SMELL
+p	java:S106F"9Replace this use of System.out or System.err by a logger.(ä„Á€ùÿÿÿÿ8µ¨±1HÎRMAJORZ
+CODE_SMELL
+p	java:S106R"9Replace this use of System.out or System.err by a logger.(ä„Á€ùÿÿÿÿ8óÌË±1HÏRMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(Ğ€½‹8Øãñ°1HĞRMAJORZ
+CODE_SMELL
+p	java:S106N"9Replace this use of System.out or System.err by a logger.(ä„Á€ùÿÿÿÿ8óÌË±1HÑRMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(ä„Á€ùÿÿÿÿ8ıºÄ±1HÒRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(Åè¹ûùÿÿÿÿ8ıºÄ±1HÓRMAJORZ
+CODE_SMELL
