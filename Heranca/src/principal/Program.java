@@ -9,7 +9,7 @@ public class Program {
 		// TODO Auto-generated method stub
 		
 		Conta conta = new Conta();
-		ContaCorrente cc = new ContaCorrente();
+		Conta cc = new ContaCorrente();
 		
 		System.out.println("Conta normal: ");
 		conta.setTitular("Luan");

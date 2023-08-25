@@ -1,0 +1,27 @@
+package principal;
+
+import entities.Conta;
+
+public class ProgramConta {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Conta conta = new Conta();
+		
+		conta.titular = "Luan";
+		conta.agencia = "2561-x";
+		conta.numeroConta = 6610;
+		conta.saldo = 30.00;
+		
+		conta.depositar(300.00);
+		
+		conta.obterDadosbancarios();
+		
+		conta.sacar(500.00);
+		
+		conta.obterDadosbancarios();
+
+	}
+
+}

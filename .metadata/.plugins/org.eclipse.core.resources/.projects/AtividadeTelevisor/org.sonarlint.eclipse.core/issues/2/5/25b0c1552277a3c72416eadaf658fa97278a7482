@@ -1,0 +1,21 @@
+
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(á‹ ¶üÿÿÿÿ8Ô³ÈÑ 1HãRMAJORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(Œéº†8Ô³ÈÑ 1HåRMAJORZ
+CODE_SMELL
+‰
+java:S1104"QMake canal a static final constant or non-public and provide accessors if needed.(œÍ¨˜şÿÿÿÿ8ÜªÑ 1HİRMINORZ
+CODE_SMELL
+…
+java:S1104"RMake volume a static final constant or non-public and provide accessors if needed.(öà¼–8ÜªÑ 1HŞRMINORZ
+CODE_SMELL
+Z
+java:S1125-"'Remove the unnecessary boolean literal.(¡Îì8Ô³ÈÑ 1HàRMINORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(ËÈÜÖ8Ô³ÈÑ 1HâRMAJORZ
+CODE_SMELL
+…
+java:S1104"RMake ligado a static final constant or non-public and provide accessors if needed.(Íá Á8ÜªÑ 1HßRMINORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(õóÔ8Ô³ÈÑ 1HäRMAJORZ
+CODE_SMELL

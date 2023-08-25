@@ -1,0 +1,15 @@
+
+_
+java:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8Š½çþŸ1H¯RMINORZ
+CODE_SMELL
+s	java:S125#"<This block of commented-out lines of code should be removed.(â’æŽûÿÿÿÿ8Š½çþŸ1H±RMAJORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8Š½çþŸ1H´RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.( ŽŒÔ8šÜóþŸ1HµRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.( ŽŒÔ8™«ÂþŸ1H¶RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.( ŽŒÔ8×ÝéþŸ1H·RMAJORZ
+CODE_SMELL

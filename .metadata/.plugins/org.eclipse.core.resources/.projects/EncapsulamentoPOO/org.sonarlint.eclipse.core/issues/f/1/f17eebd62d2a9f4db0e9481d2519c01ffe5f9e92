@@ -1,0 +1,9 @@
+
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(Ü±ª¿ùÿÿÿÿ8ÆÌÍÉ¡1H‚RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(Šü€¾şÿÿÿÿ8ÆÌÍÉ¡1HÿRMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(³…Éü8ÆÌÍÉ¡1H€RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(Şœ„•8ÆÌÍÉ¡1HRMAJORZ
+CODE_SMELL

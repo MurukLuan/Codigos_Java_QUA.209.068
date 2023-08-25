@@ -1,0 +1,21 @@
+package entities;
+
+public class Conta {
+	
+	public String titular;
+	public String agencia;
+	public int numeroConta;
+	public double saldo;
+	
+	public void depositar(double valorDeposito) {
+		saldo += valorDeposito;
+	}
+	
+	public void obterDadosbancarios() {
+		System.out.println("Titular: " + titular);
+		System.out.println("Agencia: " + agencia);
+		System.out.println("Conta: "+ numeroConta);
+		System.out.println("Saldo: " + saldo);
+	}
+
+}
